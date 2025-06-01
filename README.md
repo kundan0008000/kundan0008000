@@ -73,7 +73,7 @@ Secured 2nd place in the Bihar Startup Competition. Contributed to
 ## 📂 Featured Projects  
 
 ### **1. Tip Calculator**  
-A feature-rich Tip calculator platform where users can create, manage, Bill amount,Tip Percentage Find the total amount and explore calculator with a responsive and user-friendly UI.  
+A feature-rich Tip calculator platform where users can create, manage, Bill amount,Tip Percentage ,Find the total amount and explore calculator with a responsive and user-friendly UI.  
 - **Tech Stack**: HTML,CSS, JAVASCRIPT   
 
 ### **2. Drone Innovation Project**  

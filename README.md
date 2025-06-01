@@ -72,9 +72,9 @@ Secured 2nd place in the Bihar Startup Competition. Contributed to
 
 ## 📂 Featured Projects  
 
-### **1. Blog Application**  
-A feature-rich blogging platform where users can create, manage, and explore blogs with a responsive and user-friendly UI.  
-- **Tech Stack**: Spring Boot, Thymeleaf, MySQL, Docker   
+### **1. Tip Calculator**  
+A feature-rich Tip calculator platform where users can create, manage, Bill amount,Tip Percentage Find the total amount and explore calculator with a responsive and user-friendly UI.  
+- **Tech Stack**: HTML,CSS, JAVASCRIPT   
 
 ### **2. Drone Innovation Project**  
 Developed a fully functional drone that demonstrated technical precision and problem-solving capabilities.  

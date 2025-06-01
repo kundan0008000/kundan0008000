@@ -40,14 +40,17 @@ I am an ambitious and passionate developer specializing in **Java Fullstack Deve
 - **Winner** of the **Drone Innovation Challenge** organized by IIT Patna, where my team developed a fully functional drone project.  
 -**Python & Cybersecurity Workshop** (09/2024) 
 2nd Prize Winner in 3 day Python & Cybersecurity workshop.
+
 -**Celesta Event Conduct By IIT(Patna)** (08/2024) 
 We achieved 2nd rank in the Celesta event and learned a lot from the
  experience. I participated in the Death Race competition, which gave me
- the opportunity to explore robotics at IIT Patna.  
+ the opportunity to explore robotics at IIT Patna. 
+ 
 -**Kshitij 2025 Certification, IIT Kharagpur** (01/2025) 
 prestigious annual techno-management fest, an incredible platform to
  explore, competitions like Robo War, Source Code, and the challenging
- Maths Olympiad.   
+ Maths Olympiad.
+ 
 - **Startup Bihar Ideathon** (07/2024) 
 Secured 2nd place in the Bihar Startup Competition. Contributed to
  innovative solutions and unique ideas focused on real world problems.   
@@ -80,9 +83,7 @@ A feature-rich Tip calculator platform where users can create, manage, Bill amou
 Developed a fully functional drone that demonstrated technical precision and problem-solving capabilities.  
 - **Achievement**: Winner at IIT Patna  
 
-### **3. AgroInnovate**  
-A project aimed at empowering the agriculture industry with innovative tech-driven solutions.  
-- **Achievement**: Finalist at INNOVERSE 2K24  
+
 
 ---
 
